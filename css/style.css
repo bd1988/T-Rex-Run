@@ -1,0 +1,11 @@
+body {
+    background-color: burlywood;
+}
+
+.dino {
+    width: 60px;
+    height: 60px;
+    background-color: red;
+    position: absolute;
+    bottom: 0px;
+}
