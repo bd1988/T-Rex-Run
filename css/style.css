@@ -9,3 +9,11 @@ body {
     position: absolute;
     bottom: 0px;
 }
+
+.obstacle {
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    background-color: orange;
+    bottom: 0px;    
+}
